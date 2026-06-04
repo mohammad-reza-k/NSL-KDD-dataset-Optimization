@@ -1,1 +1,1 @@
-# name
+#This project compares two optimization algorithms for training neural networks on the **NSL-KDD** intrusion detection dataset: Momentum Stochastic Gradient Descent (SGD),Nesterov Accelerated Gradient (NAG)
